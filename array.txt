@@ -1,0 +1,2 @@
+Array is a data structure.
+it can be static or dynamic.
